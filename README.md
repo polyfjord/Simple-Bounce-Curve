@@ -2,6 +2,7 @@
 A Blender extension that creates a simple bounce curve connecting selected objects based on their origin. The curve height can be adjusted using the slider in the operator panel.
 
 Note: This is a Blender Extension, and it is recommended to install inside of Blender's built-in extensions platform. See more at https://extensions.blender.org/
+Since this is a Blender Extension, requires Blender version 4.2 or later to work.
 
 **How to Use:**
 
